@@ -1,5 +1,5 @@
-# Chetan
-Smart Dustbin
+
+<h2>Smart Dustbin</h2>
 
 
 IOT based smart dustbin
